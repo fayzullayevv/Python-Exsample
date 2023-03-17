@@ -58,3 +58,10 @@
 
 
 # 8
+# def new(money,price):
+#     if money>price:
+#         return 'Yes'
+#     elif money<price:
+#         return 'No'
+    
+# print(new(money=int(input()),price=int(input())))
